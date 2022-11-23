@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/hotel"
+		},
+		{
+			"path": "../Pizzeria"
+		},
+		{
+			"path": "../../Downloads/todoApp2_localStorage"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Eyetracking Ahardware"
+	}
+}
